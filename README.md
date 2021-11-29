@@ -12,7 +12,7 @@
 [8. 조원별 역할](#조원별-역할)   
    
 ## 발표영상
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RVP99xg6Qa0" frameborder="0" allowfullscreen></iframe>
+[![신인우 발표](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=RVP99xg6Qa0)
    
 ## 개요
 
