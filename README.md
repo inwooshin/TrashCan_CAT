@@ -1,14 +1,19 @@
-# Trash Can
+# Trash Can   
+
 
 ## 목차    
-[1. 개요](#개요)   
-[2. 사용 CPU 및 센서](#사용-cpu-및-센서)   
-[3. 구조 설계](#구조-설계)   
-[4, 사용 STL 도면](#사용-stl-도면)   
-[5. 외형](#외형)   
-[6. 시연 영상](#시연-영상)   
-[7. 조원별 역할](#조원별-역할)   
-
+[1. 발표영상](#발표-영상)   
+[2. 개요](#개요)   
+[3. 사용 CPU 및 센서](#사용-cpu-및-센서)   
+[4. 구조 설계](#구조-설계)   
+[5, 사용 STL 도면](#사용-stl-도면)   
+[6. 외형](#외형)   
+[7. 시연 영상](#시연-영상)   
+[8. 조원별 역할](#조원별-역할)   
+   
+## 발표영상
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RVP99xg6Qa0" frameborder="0" allowfullscreen></iframe>
+   
 ## 개요
 
 ![push_pull](https://user-images.githubusercontent.com/59462895/143794693-9f2fb1c4-2580-4ded-b696-f62d02f65877.gif)
