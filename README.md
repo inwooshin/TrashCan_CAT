@@ -2,23 +2,25 @@
 
 
 ## 목차    
-[1. 발표영상](#발표-영상)   
-[2. 개요](#개요)   
+[1. 개요](#개요)   
+[2. 발표영상](#발표-영상)   
 [3. 사용 CPU 및 센서](#사용-cpu-및-센서)   
 [4. 구조 설계](#구조-설계)   
 [5, 사용 STL 도면](#사용-stl-도면)   
 [6. 외형](#외형)   
 [7. 시연 영상](#시연-영상)   
 [8. 조원별 역할](#조원별-역할)   
-   
-## 발표영상
-[![신인우 발표](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=RVP99xg6Qa0)
+
    
 ## 개요
 
 ![push_pull](https://user-images.githubusercontent.com/59462895/143794693-9f2fb1c4-2580-4ded-b696-f62d02f65877.gif)
 
 이 프로젝트는 압축 기능 및 IoT 기능을 사용할 수 있는 쓰레기통인 C.A.T(Can do Anything Trash can) 에 관한 프로젝트이다. WiFi 라이브러리를 사용하고 HTTP 로 ESP8266 과 앱인벤터의 통신이 가능하도록 설계하였다. 그리고 STL 파일으로 Press Hardware 를 수정하여 Scissors Linkage 의 구조로 3D 프린팅 하였으며, Torque 가 부족하기 때문에 기존의 gear 를 1개에서 2개로 사용을 변경하여 Push 와 Pull 이 용이하게 만들었다.
+   
+## 발표영상
+[![발표영상화면](https://user-images.githubusercontent.com/59462895/143811073-9cc129e4-b6d4-4e46-b6c8-dc1d9ab2548a.JPG)](https://www.youtube.com/watch?v=RVP99xg6Qa0)   
+위의 사진을 클릭하시면 Youtube 링크로 이동합니다.   
 
 ## 사용 CPU 및 센서
 
